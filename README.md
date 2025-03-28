@@ -47,5 +47,3 @@ This game is built with:
 ## ⚠️ Warning
 
 This game may cause: addiction, nostalgia, competitive behavior among friends, and an irrational fear of running into your own tail.
-
----
