@@ -1,4 +1,4 @@
-# 🐍 SLITHERY SNAKE GAME 🐍
+# 🐍 SNAKE GAME 🐍
 
 ![Snake Game](https://img.shields.io/badge/Game-Snake-brightgreen)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
